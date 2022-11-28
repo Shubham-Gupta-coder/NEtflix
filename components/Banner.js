@@ -9,7 +9,7 @@ const Banner = (props) => {
             .main{
                 width:100vw;
                 height:70vh;
-                background:url("http://m.gettywallpapers.com/wp-content/uploads/2021/09/Money-Heist-Laptop-Wallpaper-4k.jpg");
+                background:url("https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/08/money-heist-season-5.jpg");
                 background-size:cover;
             }
             .bannerinsiders{
